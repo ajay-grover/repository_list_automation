@@ -5,3 +5,4 @@ selenium~=3.141.0
 requests~=2.26.0
 
 allure-pytest
+selenium-requests
